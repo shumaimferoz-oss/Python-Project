@@ -33,7 +33,7 @@ def update_timer():
     else:
         result_label.config(text="Time's Up!")
 
-#🔹 Root
+# Root
 root = tk.Tk()
 root.title("Ramadan Countdown Timer")
 root.geometry("400x300")
